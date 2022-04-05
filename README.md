@@ -1,4 +1,3 @@
-### ✨ Bohdan Savchenko ✨
 ### Hi there 👋
 
 <!--
