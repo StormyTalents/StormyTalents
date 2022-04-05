@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=BohdanSav)   <br />
 <div>
   <h4>🏆 Github Profile Trophy</h4>
-    <img src="https://github-profile-trophy.vercel.app/?username=BohdanSav&column=8&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Cardoso-topdev&column=8&theme=onedark"/>
 </div>
 <div>
   <h4>👨🏻‍💻 GitHub Usage stats</h4>
