@@ -10,8 +10,8 @@
 </p>
 
 <p align="left">
-  
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=StormyTalents&show_icons=true&theme=blueberry&hide_border=true" />
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=StormyTalents&theme=blueberry&hide_border=true" />
-  
 </p>
+
+[![StormyTalents' Activity Graph](https://activity-graph.herokuapp.com/graph?username=StormyTalents&custom_title=StormyTalent's%20Contribution%20Graph&theme=react-dark&bg_color=1a2d3d&hide_border=true&line=6dbef7&point=add7ff&color=27e8a7)]
