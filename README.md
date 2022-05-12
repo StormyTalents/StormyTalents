@@ -10,8 +10,8 @@
 </p>
 
 <p align="left">
-  <a href="https://lia0wang.dev/">
+  
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=StormyTalents&show_icons=true&theme=blueberry&hide_border=true" />
-
-  </a>
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=StormyTalents&theme=blueberry&hide_border=true" />
+  
 </p>
