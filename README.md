@@ -8,9 +8,3 @@
   <div align="center"><img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=StormyTalents&show_icons=true&theme=radical&show_owner=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StormyTalents&layout=compact" /></div>
 </div>
-
-
-<div>
-  <h2>🏆 Github Profile Trophy</h2>
-  <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=StormyTalents&column=8&theme=onedark"/></div>
-</div>
