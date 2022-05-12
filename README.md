@@ -1,4 +1,4 @@
-<h2 align="center">- STORM IN TALENTS -</h2>
+<h1 align="center">- STORM IN TALENTS -</h1>
 
 <p align="center"><img src="animation.gif" width="35%"></p>
 <p align="center">
