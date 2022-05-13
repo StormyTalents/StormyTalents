@@ -1,5 +1,8 @@
 <h1 align="center">- STORM IN TALENTS -</h1>
-
+<h4 align="center">
+  He has got great <b>TALENT</b> in his mind.<br/>
+  Whenever the <b>STORM</b> is occured in his <b>TALENT</b>, there is always
+</h4>
 <p align="center"><img src="animation.gif" width="35%"></p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Born+With+the+talent+of+programming;Great+sense+with+team+spirit;Those+are+all+you+will+be+tasted">
