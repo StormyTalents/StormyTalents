@@ -21,4 +21,4 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 </p>
 
-[![StormyTalents' Activity Graph](https://activity-graph.herokuapp.com/graph?username=StormyTalents&custom_title=StormyTalent's%20Contribution%20Graph&theme=react-dark&bg_color=1a2d3d&hide_border=true&line=6dbef7&point=add7ff&color=27e8a7)]
+![StormyTalents' Activity Graph](https://activity-graph.herokuapp.com/graph?username=StormyTalents&custom_title=StormyTalent's%20Contribution%20Graph&theme=react-dark&bg_color=1a2d3d&hide_border=true&line=6dbef7&point=add7ff&color=27e8a7)
