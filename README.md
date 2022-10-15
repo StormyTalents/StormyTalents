@@ -13,16 +13,18 @@
 
 <p align="center" display="flex">
   <a href="https://www.hackerrank.com/certificates/f8f2ef2f4267">
-    <img width="25%" src="hacker_react.PNG" />
+    <img width="32%" src="hacker_react.PNG" />
   </a>
     <a href="https://www.hackerrank.com/certificates/6d38cf7ba226">
-    <img width="25%" src="hacker_js.PNG" />
+    <img width="32%" src="hacker_js.PNG" />
   </a>
   <a href="https://www.hackerrank.com/certificates/0ad2664a1269">
-    <img width="25%" src="hacker_css.PNG" />
+    <img width="32%" src="hacker_css.PNG" />
   </a>
+</p>
+<p align="center" display="flex">
   <a href="https://www.freecodecamp.org/certification/fcca78b112e-9d66-4b0f-b1da-cfdea07fd0a9/front-end-development-libraries">
-    <img width="25%" src="freecodecamp.PNG" />
+    <img width="32%" src="freecodecamp.PNG" />
   </a>
 </p>
 
