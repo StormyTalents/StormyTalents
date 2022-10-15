@@ -1,6 +1,6 @@
 <h1 align="center">- STORM IN TALENTS -</h1>
 <h4 align="center">
-  He has got great <b>TALENT</b> in his mind.<br/>
+  He has got strong <b>TALENT</b> in his mind.<br/>
   Whenever the <b>STORM</b> is occured in his <b>TALENT</b>, you will get wonderful result in collaboration with him.
 </h4>
 <p align="center">
