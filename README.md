@@ -24,7 +24,7 @@
 </p>
 <p>
   <a href="https://www.freecodecamp.org/certification/fcca78b112e-9d66-4b0f-b1da-cfdea07fd0a9/front-end-development-libraries">
-    <img width="100%" src="freecodecamp.PNG" />
+    <img width="32%" src="freecodecamp.PNG" />
   </a>
 </p>
 
