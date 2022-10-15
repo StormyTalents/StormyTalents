@@ -23,8 +23,14 @@
   </a>
 </p>
 <p align="center" display="flex">
+  <a href="https://www.testdome.com/certificates/dffb7ee777f744bdbfb680abed89cff5">
+    <img width="32%" src="testdome_react.PNG" />
+  </a>
   <a href="https://www.freecodecamp.org/certification/fcca78b112e-9d66-4b0f-b1da-cfdea07fd0a9/front-end-development-libraries">
     <img width="32%" src="freecodecamp.PNG" />
+  </a>
+    <a href="https://www.testdome.com/certificates/e459ac5534d44c04bfb35794b940d113">
+    <img width="32%" src="testdome_js.PNG" />
   </a>
 </p>
 
