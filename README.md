@@ -11,6 +11,21 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 </p>
 
+<p align="center" display="flex">
+  <a href="https://www.hackerrank.com/certificates/f8f2ef2f4267">
+    <img width="25%" src="hacker_react.PNG" />
+  </a>
+    <a href="https://www.hackerrank.com/certificates/6d38cf7ba226">
+    <img width="25%" src="hacker_js.PNG" />
+  </a>
+  <a href="https://www.hackerrank.com/certificates/0ad2664a1269">
+    <img width="25%" src="hacker_css.PNG" />
+  </a>
+  <a href="https://www.freecodecamp.org/certification/fcca78b112e-9d66-4b0f-b1da-cfdea07fd0a9/front-end-development-libraries">
+    <img width="25%" src="freecodecamp.PNG" />
+  </a>
+</p>
+
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=StormyTalents&show_icons=true&theme=blueberry&hide_border=true" />
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=StormyTalents&theme=blueberry&hide_border=true" />
