@@ -22,7 +22,7 @@
     <img width="32%" src="hacker_css.PNG" />
   </a>
 </p>
-<p>
+<p align="center" display="flex">
   <a href="https://www.freecodecamp.org/certification/fcca78b112e-9d66-4b0f-b1da-cfdea07fd0a9/front-end-development-libraries">
     <img width="32%" src="freecodecamp.PNG" />
   </a>
