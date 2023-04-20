@@ -5,7 +5,7 @@
   He's always with STORM in TALENT.<br/>
 </h4>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Born+With+the+talent+of+programming;Great+sense+with+team+spirit;Those+are+all+you+will+be+tasted">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Born+With+the+talent+of+programming;Good+sense+in+team+spirit;Those+are+all+you+will+taste">
 </p>
 
 <p  align="center">
