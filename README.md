@@ -1,7 +1,8 @@
 <h1 align="center">- STORM IN TALENTS -</h1>
 <h4 align="center">
-  He has got strong <b>TALENT</b> in his mind.<br/>
-  Whenever the <b>STORM</b> is occured in his <b>TALENT</b>, you will get wonderful result in collaboration with him.
+  He has got strong <b>TALENT</b> in his heart.<br/>
+  Whenever his <b>TALENT</b> encounters a <b>STORM</b>, working with him will yield awesome results.
+  He's always with STORM in TALENT.
 </h4>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Born+With+the+talent+of+programming;Great+sense+with+team+spirit;Those+are+all+you+will+be+tasted">
